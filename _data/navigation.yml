@@ -19,7 +19,11 @@ main:
     
   - title: "Contact"
     url: /portfolio/
-     
+
+  - title: "LinkedIn"
+    url: www.linkedin.com/in/peterzummo
+
+
   # - title: "CV"
   #   url: /cv-json/
     
