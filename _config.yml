@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Brushwood Bytes"
+title                    : "Brushwood's Blog"
 title_separator          : "-"
 name                     : &name "Brushwooddog"
-description              : &description "Hey! My name is Peter, a Cyber Researcher from Orlando."
+description              : &description "Howdy! I'm' Peter and welcome to my blog, this is where I talk about all things I find interesting. It manly focuses on the intersection between the cyber world and modern day diplomacy and how all these bits and bytes affect modern day geopolitics. "
 url                      : https://brushwooddog.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/brushwooddog/brushwooddog.github.io.git"
@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Peter"
   pronouns         : # example: "she/her"  
-  bio              : "Hey! My name is Peter, a Cyber Researcher from Orlando."
-  location         : "Orlando, FL"
+  bio              : "Howdy! I'm' Peter and welcome to my blog, this is where I talk about all things I find interesting. It manly focuses on the intersection between the cyber world and modern day diplomacy and how all these bits and bytes affect modern day geopolitics. "
+  location         : "New York, USA"
   employer         : "University of Central Florida"
   uri              : # URL
   email            : "peterzucf@gmail.com" 
